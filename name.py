@@ -1,0 +1,2 @@
+name = "Bikraj"
+print(name)
