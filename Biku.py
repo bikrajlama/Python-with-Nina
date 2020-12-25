@@ -1,4 +1,4 @@
+greetings = ["Hello", "Bonjour", "Hola"]
 
-
-name = "Birkaj"
-print(name)
+for greeting in greetings:
+        print (f"{greeting}, World")
