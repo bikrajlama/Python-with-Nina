@@ -4,6 +4,6 @@ class Car:
     def start(self, name):
         self.name = name
         if self.runs:
-            print(f"{self.name} car is started.")
+            print(f"{self.name} Car is started.")
         else:
-            print(f"{self.name} car is broken.")
+            print(f"{self.name} Car is broken.")
